@@ -57,11 +57,6 @@ elif c=='n':
     F.print_filtration(A)
 
 
-
-"""FUNCTIONS THAT MAKE SEGMENTATIONS OF ELEMENTS OF 'list'"""
-
-
-
 end = time.perf_counter()
 elapsed = end - start
 print(f'Time taken: {elapsed:.6f} seconds')
